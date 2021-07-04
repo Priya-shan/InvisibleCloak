@@ -1,3 +1,3 @@
 # InvisibleCloak
 
-Harry Potters invisible cloak using python and opencv✨
+Harry Potter's invisible cloak using python and opencv✨
